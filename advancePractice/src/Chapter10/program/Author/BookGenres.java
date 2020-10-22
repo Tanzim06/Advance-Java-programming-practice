@@ -1,0 +1,11 @@
+package Chapter10.program.Author;
+
+public enum BookGenres {
+	
+	REALSITIS_FICTION,
+	HISTORICAL_FICTION,
+	HUMOR,
+	MYSTERY,
+	YOUNG_ADULT_FICTION,
+	REFERANCE_BOOK
+}
